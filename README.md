@@ -5,6 +5,10 @@ Code and Presentation for PyData Conference 2017
 
 [Machine Learning Architectures]
 
+## Abstract
+
+We would talk about and implement some common machine learning architectures and building blocks which can be applied to a variety of use cases. The topics include Siamese networks, Triplet Networks, Skip connections, Batch Normalization and Dropout. We would use the Duplicate Question Dataset from Quora to demo these architectures.
+
 ## Presentation
 
 * [Slides](https://slides.com/shagunsodhani/pydata2017/)
